@@ -1,0 +1,19 @@
+{
+    "name": "Trillo",
+    "version": "1.0.0",
+    "main": "index.js",
+    "scripts": {
+      "compile:sass": "sass sass/main.scss css/style.css -w"
+    },
+    "author": "dhruv",
+    "license": "ISC",
+    "description": "",
+    "dependencies": {
+      "jquery": "^3.7.1"
+    },
+    "devDependencies": {
+      "sass": "^1.71.1",
+      "node-sass": "9.0.0"
+    }
+  }
+  
